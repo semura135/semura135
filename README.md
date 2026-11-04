@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Semira Bereka 👋
 
-<!--
-**semura135/semura135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at Addis Ababa University and a junior full-stack developer interested in building useful, practical web applications.
 
-Here are some ideas to get you started:
+Currently working with the MERN stack and improving my skills through hands-on projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+- **Languages:** JavaScript, TypeScript, Java, SQL
+- **Frontend:** React, HTML, CSS, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, SQL
+- **Tools:** Git, GitHub, VS Code
+
+### Projects
+
+- **ApplyTrack:** A job application tracking platform built with the MERN stack.
+- **ThinkBoard:** A notes management application built with React and Node.js.
+- **Veluora:** A makeup studio booking application currently in development.
+
+### Currently Learning
+
+- Full-stack web development
+- Backend development and REST APIs
+- Writing cleaner, more maintainable code
+
+### Find me
+
+- [GitHub](https://github.com/semura135)
+- [LinkedIn](https://www.linkedin.com/in/semura135)
